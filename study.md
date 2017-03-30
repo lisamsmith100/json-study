@@ -50,7 +50,25 @@ A kitchen has many items.
     rack, and cinnamon, nutmeg, and vanilla on another shelf.
 
 ```json
-<!-- your answer here -->
+<!-- kitchen
+      cupboard
+          bowls
+          plates
+      stove-electric
+        heating elements
+          small
+          medium
+          large
+          extra large
+      rack
+        herbs
+          chives
+          lemongrass
+          mint
+        spices
+          cinnamon
+          nutmeg
+          vanilla-->
 ```
 
 ## Modeling Data Using JSON: Part II
@@ -62,7 +80,36 @@ delicious apple.
 Copy the JSON that you wrote for the previous question and include the new information about the kitchen.
 
 ```json
-<!-- your answer here -->
+<!--  kitchen
+        cupboard
+            bowls
+            plates
+        stove-electric
+          heating elements
+            small
+            medium
+            large
+            extra large
+        rack
+          herbs
+            chives
+            lemongrass
+            mint
+          spices
+            cinnamon
+            nutmeg
+            vanilla
+        basket
+          fruit
+            apples
+              fuji
+                2
+              gala
+                7
+              goldenDelicious
+                1
+
+              -->
 ```
 
 ## JSON Methods
@@ -70,7 +117,7 @@ Copy the JSON that you wrote for the previous question and include the new infor
 Can you write a method in the JSON that you wrote above?
 
 ```json
-<!-- your answer here -->
+<!-- i'm not sure; i read that we cannot write methods but maybe I misread? -->
 ```
 
 ## JSON Comments
@@ -78,5 +125,7 @@ Can you write a method in the JSON that you wrote above?
 Can you write comments in the JSON that you wrote above?
 
 ```json
-<!-- your answer here -->
+<!-- i don't think so-->this is just data, correct?  I googled it and
+stackoverflow comment with green checkmark validated my understandingis this
+correct? -->
 ```
